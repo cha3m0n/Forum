@@ -1,0 +1,22 @@
+.row{
+    margin-top: 10%;
+}
+
+.btn-group button {
+    border: none;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background-color: #F8FCEC;
+    color: #000;
+  }
+  
+  .btn-group button:hover {
+    background-color: #94CA74;
+    color: #fff;
+  }
+  
+  .btn-group .active {
+    background-color: #94CA74;
+    color: #fff;
+  }
+  

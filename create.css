@@ -1,0 +1,30 @@
+.card{
+    margin-top: 5%;
+    border: 2px solid #94CA74;
+}
+.card-header {
+  background-color: #F8FCEC;
+  border-bottom: 2px solid #94CA74;;
+}
+
+.form-control:focus {
+  border-color: #94CA74;
+}
+
+.btn-primary {
+    margin-top: 5%;
+  background-color: #94CA74;
+  border-color: #94CA74;
+}
+
+.btn-primary:hover {
+  background-color: #7BBF5F;
+  border-color: #7BBF5F;
+}
+
+.btn-secondary {
+    margin-top: 5%;
+  background-color: #ca7474;
+  border-color: #ca7474;
+}
+
